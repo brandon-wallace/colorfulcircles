@@ -1,4 +1,6 @@
-Click to create colorful circles of random colors and sizes.
+Click to create
+
+View: https://iambw.github.io/colorfulcircles/
 
 Features:
 
