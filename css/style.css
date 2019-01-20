@@ -28,6 +28,8 @@ article {
   font-size: 1.5rem;
   font-weight: bold;
   position: absolute;
+  -moz-user-select: none;
+  user-select: none;
   background-color: #999999;
   font-family: Arial, sans-serif;
 }
