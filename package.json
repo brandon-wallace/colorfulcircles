@@ -1,0 +1,27 @@
+{
+  "name": "colorful-circles",
+  "version": "1.0.0",
+  "description": "# View: [https://iambw.github.io/colorfulcircles/](https://iambw.github.io/colorfulcircles/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambw/colorful-circles.git"
+  },
+  "keywords": [],
+  "author": "Brandon Wallace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iambw/colorful-circles/issues"
+  },
+  "homepage": "https://github.com/iambw/colorful-circles#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
