@@ -1,6 +1,6 @@
 # Click to create colorful circles of random colors and sizes.
 
-# View: [https://iambw.github.io/colorfulcircles/](https://iambw.github.io/colorfulcircles/)
+# View: [https://brandon-wallace.github.io/colorfulcircles/](https://iambw.github.io/colorfulcircles/)
 
 # Features:
 
